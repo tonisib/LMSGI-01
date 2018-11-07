@@ -1,0 +1,9 @@
+<ejemplo><numero>2</numero><descripcion><recomendacion>
+           Se vé mejor en Internet Explorer, porque muestra
+           mediante un arbol jerárquico los tags que forman
+           este XML.
+        </recomendacion><que_hace> 
+           Simplemente muestra la estructura jerárquica de 
+           un archivo XML. Se muestra mejor en Internet
+           Explorer.
+        </que_hace></descripcion></ejemplo>
