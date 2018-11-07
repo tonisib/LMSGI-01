@@ -3,4 +3,4 @@ tasca 1 llenguatge de marques
 
 He fet tot això:
 1. primer
-2. seagon
+2. segon
