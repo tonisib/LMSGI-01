@@ -2,5 +2,5 @@
 tasca 1 llenguatge de marques
 
 He fet tot això:
-*1
-*2
+1. primer
+2. seagon
